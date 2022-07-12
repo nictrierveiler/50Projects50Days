@@ -14,3 +14,7 @@ body {
     height: 100vh;
     overflow: hidden;
 }
+
+.panel {
+    background-image: url(hhttps://source.unsplash.com/random/);
+}
