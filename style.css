@@ -26,11 +26,10 @@ body {
     height: 80vw;
     border-radius: 50px;
     color: white;
-    flex: 0.5;
+    flex: 0.1;
     cursor: pointer;
     margin: 10px;
     position: relative;
-    max-height: 400px;
     transition: flex 0.7s ease-in;
 }
 
